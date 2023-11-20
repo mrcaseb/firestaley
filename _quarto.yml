@@ -3,6 +3,17 @@ project:
 
 website:
   title: "firestaley"
+  twitter-card:
+    creator: "@mrcaseb"
+    title: "Chargers Please Fire Staley"
+    description: "Countdown until the Chargers - hopefully - fire Brandon Staley"
+    image: "firestaley.jpg"
+    card-style: "summary_large_image"
+  open-graph:
+    site-name: "Chargers Please Fire Staley"
+    title: "Chargers Please Fire Staley"
+    description: "Countdown until the Chargers - hopefully - fire Brandon Staley"
+    image: "firestaley.jpg"
 
 format:
   html:
