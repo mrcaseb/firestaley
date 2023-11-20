@@ -1,0 +1,17 @@
+---
+title: "Chargers Fire Staley Countdown"
+---
+
+![](firestaley.jpg)
+
+Brandon Staley is actively sabotaging Justin Herbert's career. It's time for Herbert to be freed.
+
+However, it is to be feared that we will have to wait until Black Monday, i.e. the Monday after the last regular season game.
+
+How long will that be? See below
+
+```{=html}
+<script src="https://cdn.logwork.com/widget/countdown.js"></script>
+<a href="https://logwork.com/countdown-8i61" class="countdown-timer" data-style="circles" data-timezone="America/Los_Angeles" data-textcolor="#faf5f5" data-date="2024-01-08 08:00" data-background="#007bc7" data-unitscolor="#faf5f5">Countdown to Black Monday LA Time</a>
+```
+<!--# taken from https://logwork.com/countdown-timer -->
