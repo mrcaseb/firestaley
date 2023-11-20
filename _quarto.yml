@@ -1,8 +1,8 @@
 project:
   type: website
-    site-url: "https://mrcaseb.github.io/firestaley/"
 
 website:
+  site-url: https://mrcaseb.github.io/firestaley/
   title: "firestaley"
   twitter-card:
     creator: "@mrcaseb"
