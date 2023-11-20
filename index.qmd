@@ -2,7 +2,7 @@
 title: "Chargers Fire Staley Countdown"
 ---
 
-![](firestaley.jpg)
+![](firestaley.jpg){.preview-image}
 
 Brandon Staley is actively sabotaging Justin Herbert's career. It's time for Herbert to be freed.
 
