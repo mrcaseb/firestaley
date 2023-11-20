@@ -1,6 +1,6 @@
 project:
   type: website
-   site-url: "https://mrcaseb.github.io/firestaley/"
+    site-url: "https://mrcaseb.github.io/firestaley/"
 
 website:
   title: "firestaley"
