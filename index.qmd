@@ -1,5 +1,8 @@
 ---
 title: "Chargers Fire Staley Countdown"
+author:
+  - name: "@mrcaseb"
+    url: https://linktr.ee/mrcaseb
 ---
 
 ![](firestaley.jpg){.preview-image}
